@@ -1,2 +1,2 @@
-# potential-funicular
+# June7thgit 
 Practice for git
